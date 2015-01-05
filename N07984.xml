@@ -115,14 +115,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:0F7D91CCAC10EDF8:010189_0000_0F7D42BB85907FE0"/>
-            <pb facs="tcp:0F7D91CCAC10EDF8:010189_0001_0F7D42BC3352CF28"/>
+            <pb facs="unknown:010189_0000_0F7D42BB85907FE0"/>
+            <pb facs="unknown:010189_0001_0F7D42BC3352CF28"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:0F7D91CCAC10EDF8:010189_0002_0F7D42BD0540D170"/>
+            <pb facs="unknown:010189_0002_0F7D42BD0540D170"/>
             <p>TOM THUMB'S
 PLAY-BOOK;
 To teach Children their
@@ -140,7 +140,7 @@ BARCLAY in Cornhill</p>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:0F7D91CCAC10EDF8:010189_0003_0F7D42BDB81F9978"/>
+            <pb facs="unknown:010189_0003_0F7D42BDB81F9978"/>
             <head>TOM THUMB'S
 PLAY BOOK.</head>
             <div type="part">
@@ -154,7 +154,7 @@ w x y z &amp;.</p>
                <p>sl fl si fi ss ff ssi ffi ffl ct.</p>
             </div>
             <div type="part">
-               <pb n="4" facs="tcp:0F7D91CCAC10EDF8:010189_0004_0F7D42BEA87DA190"/>
+               <pb n="4" facs="unknown:010189_0004_0F7D42BEA87DA190"/>
                <head>The A B C.</head>
                <list>
                   <item>A a Apple pye</item>
@@ -169,7 +169,7 @@ w x y z &amp;.</p>
                   <item>K k Kept it</item>
                   <item>M m Mourned for it</item>
                   <item>
-                     <pb n="5" facs="tcp:0F7D91CCAC10EDF8:010189_0004_0F7D42BEA87DA190"/>
+                     <pb n="5" facs="unknown:010189_0004_0F7D42BEA87DA190"/>
 N n Nodded for it</item>
                   <item>O o Opened it</item>
                   <item>P p Peeped in it</item>
@@ -185,7 +185,7 @@ N n Nodded for it</item>
                </list>
             </div>
             <div type="part">
-               <pb n="6" facs="tcp:0F7D91CCAC10EDF8:010189_0005_0F7D42C20BE06BA8"/>
+               <pb n="6" facs="unknown:010189_0005_0F7D42C20BE06BA8"/>
                <p>
                   <figure/>
                </p>
@@ -198,7 +198,7 @@ N n Nodded for it</item>
                   <l>and had a great Dog.</l>
                </lg>
                <p>
-                  <pb n="7" facs="tcp:0F7D91CCAC10EDF8:010189_0005_0F7D42C20BE06BA8"/>
+                  <pb n="7" facs="unknown:010189_0005_0F7D42C20BE06BA8"/>
                   <figure/>
                </p>
                <lg>
@@ -210,7 +210,7 @@ N n Nodded for it</item>
                   <l>and had a red Face,</l>
                </lg>
                <p>
-                  <pb n="8" facs="tcp:0F7D91CCAC10EDF8:010189_0006_0F7D42C2D6B6A6C8"/>
+                  <pb n="8" facs="unknown:010189_0006_0F7D42C2D6B6A6C8"/>
                   <figure/>
                </p>
                <lg>
@@ -222,7 +222,7 @@ N n Nodded for it</item>
                   <l>and follow'd the Plow.</l>
                </lg>
                <p>
-                  <pb n="9" facs="tcp:0F7D91CCAC10EDF8:010189_0006_0F7D42C2D6B6A6C8"/>
+                  <pb n="9" facs="unknown:010189_0006_0F7D42C2D6B6A6C8"/>
                   <figure/>
                </p>
                <lg>
@@ -234,7 +234,7 @@ N n Nodded for it</item>
                   <l>and hunted a Buck.</l>
                </lg>
                <p>
-                  <pb n="10" facs="tcp:0F7D91CCAC10EDF8:010189_0007_0F7D42C41D05EE80"/>
+                  <pb n="10" facs="unknown:010189_0007_0F7D42C41D05EE80"/>
                   <figure/>
                </p>
                <lg>
@@ -246,7 +246,7 @@ N n Nodded for it</item>
                   <l>and he govern'd a Mouse.</l>
                </lg>
                <p>
-                  <pb n="11" facs="tcp:0F7D91CCAC10EDF8:010189_0007_0F7D42C41D05EE80"/>
+                  <pb n="11" facs="unknown:010189_0007_0F7D42C41D05EE80"/>
                   <figure/>
                </p>
                <lg>
@@ -258,7 +258,7 @@ N n Nodded for it</item>
                   <l>to a foreign Land.</l>
                </lg>
                <p>
-                  <pb n="12" facs="tcp:0F7D91CCAC10EDF8:010189_0008_0F7D42C4741ECDD0"/>
+                  <pb n="12" facs="unknown:010189_0008_0F7D42C4741ECDD0"/>
                   <figure/>
                </p>
                <lg>
@@ -270,7 +270,7 @@ N n Nodded for it</item>
                   <l>and a sad Scold.</l>
                </lg>
                <p>
-                  <pb n="13" facs="tcp:0F7D91CCAC10EDF8:010189_0008_0F7D42C4741ECDD0"/>
+                  <pb n="13" facs="unknown:010189_0008_0F7D42C4741ECDD0"/>
                   <figure/>
                </p>
                <lg>
@@ -282,7 +282,7 @@ N n Nodded for it</item>
                   <l>and wore a fine Crown.</l>
                </lg>
                <p>
-                  <pb n="14" facs="tcp:0F7D91CCAC10EDF8:010189_0009_0F7D42C543837D88"/>
+                  <pb n="14" facs="unknown:010189_0009_0F7D42C543837D88"/>
                   <figure/>
                </p>
                <lg>
@@ -294,7 +294,7 @@ N n Nodded for it</item>
                   <l>and liv'd in a ship.</l>
                </lg>
                <p>
-                  <pb n="15" facs="tcp:0F7D91CCAC10EDF8:010189_0009_0F7D42C543837D88"/>
+                  <pb n="15" facs="unknown:010189_0009_0F7D42C543837D88"/>
                   <figure/>
                </p>
                <lg>
@@ -306,7 +306,7 @@ N n Nodded for it</item>
                   <l>a very great Sot.</l>
                </lg>
                <p>
-                  <pb n="16" facs="tcp:0F7D91CCAC10EDF8:010189_0010_0F7D42C60530DF68"/>
+                  <pb n="16" facs="unknown:010189_0010_0F7D42C60530DF68"/>
                   <figure/>
                </p>
                <lg>
@@ -318,7 +318,7 @@ N n Nodded for it</item>
                   <l>and so became poor.</l>
                </lg>
                <p>
-                  <pb n="17" facs="tcp:0F7D91CCAC10EDF8:010189_0010_0F7D42C60530DF68"/>
+                  <pb n="17" facs="unknown:010189_0010_0F7D42C60530DF68"/>
                   <figure/>
                </p>
                <lg>
@@ -331,7 +331,7 @@ N n Nodded for it</item>
                </lg>
             </div>
             <div type="part">
-               <pb n="18" facs="tcp:0F7D91CCAC10EDF8:010189_0011_0F7D41F3EFB38088"/>
+               <pb n="18" facs="unknown:010189_0011_0F7D41F3EFB38088"/>
                <p>Ab eb ib ob ub ac ec ic oc
 ab ed id ob ud af ef if of
 ag eg ig og ug al el il ol
@@ -348,14 +348,14 @@ pa pe pi po pu ra re ri ro
 sa se si so su ta te ti to tu.</p>
             </div>
             <div type="part">
-               <pb n="19" facs="tcp:0F7D91CCAC10EDF8:010189_0011_0F7D41F3EFB38088"/>
+               <pb n="19" facs="unknown:010189_0011_0F7D41F3EFB38088"/>
                <p>Bla ble bli blo blu cla cle
 cli clo clu fra fre fri fro fru
 pra pre pri pro pru tra tre
 tri tro trou.</p>
             </div>
             <div type="catechism">
-               <pb n="20" facs="tcp:0F7D91CCAC10EDF8:010189_0012_0F7D41F582F72BA8"/>
+               <pb n="20" facs="unknown:010189_0012_0F7D41F582F72BA8"/>
                <head>A Scripture CATECHISM,
 or Questions and Answers
 to instruct Youth in the
@@ -372,7 +372,7 @@ preserves you?</p>
                <p>Q. For what did God
 make you?</p>
                <p>
-                  <pb n="21" facs="tcp:0F7D91CCAC10EDF8:010189_0012_0F7D41F582F72BA8"/>
+                  <pb n="21" facs="unknown:010189_0012_0F7D41F582F72BA8"/>
 A. To serve him.</p>
                <p>Q. How must you serve
 him?</p>
@@ -393,7 +393,7 @@ that kil<gap reason="illegible: missing" extent="1 letter">
                   </gap>ed his brother?</p>
                <p>A. Cain?</p>
                <p>
-                  <pb n="22" facs="tcp:0F7D91CCAC10EDF8:010189_0013_0F7D41F632224E08"/>
+                  <pb n="22" facs="unknown:010189_0013_0F7D41F632224E08"/>
 Q. Who walked with
 God, and was translated?</p>
                <p>A. Enoch.</p>
@@ -409,7 +409,7 @@ nine years.</p>
 of the faithful.</p>
                <p>A. Abraham.</p>
                <p>
-                  <pb n="23" facs="tcp:0F7D91CCAC10EDF8:010189_0013_0F7D41F632224E08"/>
+                  <pb n="23" facs="unknown:010189_0013_0F7D41F632224E08"/>
 Q. Who was the strong<g ref="char:EOLhyphen"/>est
 man?</p>
                <p>A. Sampson.</p>
@@ -423,7 +423,7 @@ we live and have our
 being, we beseech the bless
 unto us these good crea<g ref="char:EOLhyphen"/>tures,
 that, in the strength
-<pb n="24" facs="tcp:0F7D91CCAC10EDF8:010189_0014_0F7D41F6F0303A38"/>
+<pb n="24" facs="unknown:010189_0014_0F7D41F6F0303A38"/>
 thereof we may set forth thy
 praise and Glory, through
 Jesus Christ our Lord.
@@ -444,7 +444,7 @@ Lord. <hi>Amen.</hi>
                </p>
             </div>
             <div type="prayer">
-               <pb n="25" facs="tcp:0F7D91CCAC10EDF8:010189_0014_0F7D41F6F0303A38"/>
+               <pb n="25" facs="unknown:010189_0014_0F7D41F6F0303A38"/>
                <head>A PRAYER at your uprising.</head>
                <p>O LORD God, my hea<g ref="char:EOLhyphen"/>venly
 Father, I most
@@ -461,7 +461,7 @@ and doing any evil, and to
 give me grace, so to walk
 in the light of thy holy word
 that I may bring forth the
-<pb n="26" facs="tcp:0F7D91CCAC10EDF8:010189_0015_0F7D41F8FB4153A8"/>
+<pb n="26" facs="unknown:010189_0015_0F7D41F8FB4153A8"/>
 fruits of the same unto the
 glory of thy blessed name,
 and the profit of my neigh<g ref="char:EOLhyphen"/>bour,
@@ -479,7 +479,7 @@ me this day from all hurts
 and dangers; vouchsafe al<g ref="char:EOLhyphen"/>so
 to keeep me this night,
 and to save me from all
-<pb n="27" facs="tcp:0F7D91CCAC10EDF8:010189_0015_0F7D41F8FB4153A8"/>
+<pb n="27" facs="unknown:010189_0015_0F7D41F8FB4153A8"/>
 thine enemies<g ref="char:punc">▪</g> give to my
 body quietness and sleep,
 but let my mind continual<g ref="char:EOLhyphen"/>ly
@@ -500,7 +500,7 @@ Jesus Christ. <hi>Amen.</hi>
                </p>
             </div>
             <div type="prayer">
-               <pb n="28" facs="tcp:0F7D91CCAC10EDF8:010189_0016_0F7D41F969C4F288"/>
+               <pb n="28" facs="unknown:010189_0016_0F7D41F969C4F288"/>
                <head>The young Child's Morning
 Prayer.</head>
                <p>ALmighty God, the ma<g ref="char:EOLhyphen"/>ker
@@ -515,7 +515,7 @@ hast taken such care of me
 this night, and that I am a<g ref="char:EOLhyphen"/>live
 and well this morning.
 Save me, O God, from e<g ref="char:EOLhyphen"/>vil
-<pb n="29" facs="tcp:0F7D91CCAC10EDF8:010189_0016_0F7D41F969C4F288"/>
+<pb n="29" facs="unknown:010189_0016_0F7D41F969C4F288"/>
 all this day long, and let
 me love and serve thee for<g ref="char:EOLhyphen"/>ever
 for the sake of Jesus
@@ -532,7 +532,7 @@ day I pray thee, for Christ's
 sake forgive me whatsoever
 I have done amiss this day,
 and keep me also all this
-<pb n="30" facs="tcp:0F7D91CCAC10EDF8:010189_0017_0F7D41F9F3201E98"/>
+<pb n="30" facs="unknown:010189_0017_0F7D41F9F3201E98"/>
 night while I am asleep. I
 desire to lie down under thy
 care, and to abide forever
@@ -549,7 +549,7 @@ thy name. Thy kingdom
 come. Thy will be done
 in earth as it is in heaven.
 Give us this day our daily
-<pb n="31" facs="tcp:0F7D91CCAC10EDF8:010189_0017_0F7D41F9F3201E98"/>
+<pb n="31" facs="unknown:010189_0017_0F7D41F9F3201E98"/>
 bread. And forgive them
 that trespass against us, and
 lead us not into temptati<g ref="char:EOLhyphen"/>on;
@@ -560,14 +560,14 @@ the glory, for ever. <hi>Amen.</hi>
                </p>
             </div>
             <div type="alphabet">
-               <pb facs="tcp:0F7D91CCAC10EDF8:010189_0018_0F7D41FAB20AF190"/>
+               <pb facs="unknown:010189_0018_0F7D41FAB20AF190"/>
                <p>A B C D E F
 G H I K L M
 N O P Q R S
 T U V W X
 Y Z.</p>
                <p>
-                  <pb facs="tcp:0F7D91CCAC10EDF8:010189_0019_0F7D41FBB0AC3868"/>
+                  <pb facs="unknown:010189_0019_0F7D41FBB0AC3868"/>
                   <figure/>
                </p>
             </div>
